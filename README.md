@@ -12,7 +12,7 @@
 - 💬 Ask me about **SQL,Research,Computer Network**
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/sanikaupasani/" target="_blank">Linkedin</a>
+<a href="https://www.linkedin.com/in/sanikaupasani/" target="_blank" rel="noreferrer">Linkedin</a>
 <p align="left">
 
 
