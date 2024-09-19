@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sanika Upasani</h1>
 <h3 align="center">A passionate Software Engineer and curious about research fields</h3>
 
-- 🔭 I’m currently working on **Collab Sphere**
-
-- 🌱 I’m currently learning **Aiml,React**
+- 🌱 I’m currently learning **Artifical Intelligence and Machine Learning**
 
 - 👯 I’m looking to collaborate on **Aiml Based Projects**
 
 - 🤝 I’m looking for help with **Research Based/Healthcare Projects**
 
-- 💬 Ask me about **SQL,Research,Computer Network**
+- 💬 Ask me about **SQL, Research, Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/sanikaupasani/" target="_blank" rel="noreferrer">Linkedin</a>
