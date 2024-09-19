@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanika Upasani</h1>
+<h1 align="center">Hi, I'm Sanika Upasani</h1>
 <h3 align="center">A passionate Software Engineer and curious about research fields</h3>
 
 - 🌱 I’m currently learning **Artifical Intelligence and Machine Learning**
